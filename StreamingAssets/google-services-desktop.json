@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "335860281018",
+    "project_id": "ttsh-carer-matter",
+    "storage_bucket": "ttsh-carer-matter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335860281018:android:e9d6707aa632074bf29c83",
+        "android_client_info": {
+          "package_name": "com.taggle.carermatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335860281018-fpa579brt7sqmo4ssofu662u3m2nfoos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8BPtCrv8QQSPaHoeQ6jV8HUmJDEsM1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335860281018-fpa579brt7sqmo4ssofu662u3m2nfoos.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "335860281018-u2007825k56qlk6cnm7up6b8r3pdelrt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.taggle.carermatter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
